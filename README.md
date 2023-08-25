@@ -6,10 +6,10 @@
 <img width="1503" alt="HowToLearn" src="https://user-images.githubusercontent.com/96244317/184151437-61878280-f9ae-4e59-85d2-413844851f2b.png">
 
 ## Реализация
-* Flexbox верстка
-* CSS-анимация
-* BEM-методология
-* Файловая структура проекта по правилам Nested БЭМ
+* Flexbox верстка;
+* CSS-анимация;
+* BEM-методология;
+* Файловая структура проекта по правилам Nested БЭМ;
 
 ## Ссылка на сайт
 [Демонстрация работы проекта на Github Pages](https://mikhailyandex.github.io/how-to-learn/)
